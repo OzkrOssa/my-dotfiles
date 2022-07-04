@@ -1,0 +1,2 @@
+/etc/default/grub
+GRUB_CMDLINE_LINUX_DEFAULT="pci=nocrs quiet splash"
